@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17718" started-at="2020-06-10T17:18:15Z" finished-at="2020-06-10T17:18:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17718" started-at="2020-06-10T17:18:15Z" finished-at="2020-06-10T17:18:33Z">
+      <class name="com.qa.testcases.TagsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.TagsPageTest@3ffc5af1]" name="setUp" is-config="true" duration-ms="7969" started-at="2020-06-10T17:18:15Z" finished-at="2020-06-10T17:18:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyNameOf3PopularTagTest()[pri:1, instance:com.qa.testcases.TagsPageTest@3ffc5af1]" name="verifyNameOf3PopularTagTest" duration-ms="60" started-at="2020-06-10T17:18:23Z" finished-at="2020-06-10T17:18:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNameOf3PopularTagTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.TagsPageTest@3ffc5af1]" name="tearDown" is-config="true" duration-ms="628" started-at="2020-06-10T17:18:23Z" finished-at="2020-06-10T17:18:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.TagsPageTest@3ffc5af1]" name="setUp" is-config="true" duration-ms="8372" started-at="2020-06-10T17:18:24Z" finished-at="2020-06-10T17:18:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="numberOfNewestQuestionsAskedTest()[pri:2, instance:com.qa.testcases.TagsPageTest@3ffc5af1]" name="numberOfNewestQuestionsAskedTest" duration-ms="59" started-at="2020-06-10T17:18:32Z" finished-at="2020-06-10T17:18:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberOfNewestQuestionsAskedTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.TagsPageTest@3ffc5af1]" name="tearDown" is-config="true" duration-ms="610" started-at="2020-06-10T17:18:32Z" finished-at="2020-06-10T17:18:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.TagsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

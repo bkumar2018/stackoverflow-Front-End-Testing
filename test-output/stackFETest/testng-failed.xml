@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [stackFETest]">
+  <test thread-count="5" name="Acceptance Test(failed)">
+    <classes>
+      <class name="com.qa.testcases.QuestionsPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="verifyQuestionsPageTitle"/>
+        </methods>
+      </class> <!-- com.qa.testcases.QuestionsPageTest -->
+    </classes>
+  </test> <!-- Acceptance Test(failed) -->
+</suite> <!-- Failed suite [stackFETest] -->
