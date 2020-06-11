@@ -41,7 +41,7 @@ public class TestBase {
 		
 		if(browserName.equals("chrome")) {
 			//Setting property for Chrome dirver 
-			System.setProperty("webdriver.chrome.driver", "C:\\Users\\Datantar\\Downloads\\Softwares\\chromedriver_win32-forChrome-v83\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", prop.getProperty("chromeDriverPath");
 			driver = new ChromeDriver();
 			
 			
